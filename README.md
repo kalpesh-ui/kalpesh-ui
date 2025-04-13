@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kalpesh Kale</h1>
 <h3 align="center">A passionate Data Analytical from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif"
+<img align="right" alt="coding" width="400" src="(https://github.com/user-attachments/assets/7e7a5583-25f5-42a1-b663-7cc57444f6ee)"
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpesh-ui&label=Profile%20views&color=0e75b6&style=flat" alt="kalpesh-ui" /> </p>
 
