@@ -1,4 +1,4 @@
-![logo](https://github.com/kalpesh-ui/kalpesh-ui/blob/main/Your%20paragraph%20text%20(2).png)
+
 <h1 align="center">Hi 👋, I'm Kalpesh Kale</h1>
 <h3 align="center">A passionate Data Analytical from India</h3>
 
