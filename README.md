@@ -8,11 +8,12 @@
 
 - 🌱 I’m currently learning **Powerbi,Tableau,Excel etc.**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1lEW92Be2wSfG-yboUmi0MR9Pmz4fi_WA](https://drive.google.com/drive/folders/1lEW92Be2wSfG-yboUmi0MR9Pmz4fi_WA)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1oLJVLbErP2jRkvtEHFmc_zBz4wNBPYPw](https://drive.google.com/drive/folders/1oLJVLbErP2jRkvtEHFmc_zBz4wNBPYPw)
+- 
 
 - 📫 How to reach me **kkale8163@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gbDBeKNHrH6yJBN4jxy6NrpMUpnH_Niz/view?usp=drivesdk](https://drive.google.com/file/d/1gbDBeKNHrH6yJBN4jxy6NrpMUpnH_Niz/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HAkvBSdgPWX7ed0XkY_V_Bu59fkBm3yI/view?usp=drivesdk](https://drive.google.com/file/d/1HAkvBSdgPWX7ed0XkY_V_Bu59fkBm3yI/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am funny😄😅**
 
@@ -21,6 +22,8 @@
 <a href="https://linkedin.com/in/kalpesh kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalpesh kale" height="30" width="40" /></a>
 <a href="https://fb.com/kalpesh kale(kalpya)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalpesh kale(kalpya)" height="30" width="40" /></a>
 <a href="https://instagram.com/kalpya1235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalpya1235" height="30" width="40" /></a>
+<a href="https://github.com/kalpesh-ui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kalpesh-ui" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
