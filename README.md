@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **Powerbi,Tableau,Excel etc.**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1oLJVLbErP2jRkvtEHFmc_zBz4wNBPYPw](https://drive.google.com/drive/folders/1oLJVLbErP2jRkvtEHFmc_zBz4wNBPYPw)
-- 
 
 - 📫 How to reach me **kkale8163@gmail.com**
 
@@ -23,6 +22,7 @@
 <a href="https://fb.com/kalpesh kale(kalpya)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalpesh kale(kalpya)" height="30" width="40" /></a>
 <a href="https://instagram.com/kalpya1235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalpya1235" height="30" width="40" /></a>
 <a href="https://github.com/kalpesh-ui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kalpesh-ui" height="30" width="40" /></a>
+<a href="https://naukri.com/kalpesh kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/naukri.svg" alt="kalpesh kale" height="30" width="40" /></a>
   
 </p>
 
